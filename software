@@ -1,0 +1,5 @@
+#example program
+i=70
+g=678
+h=i*g
+print (h)
